@@ -15,4 +15,3 @@ class CleanUpFile:
 with CleanUpFile("file.txt"):
     with open("file.txt", "w") as file:
         file.write("Hello Mate!")
-n
